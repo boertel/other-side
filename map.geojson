@@ -8,6 +8,389 @@
                 ],
                 "type": "Point"
             },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41185665130615,
+                    37.801574180200134
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40989863872527,
+                    37.80025595405303
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40832149982452,
+                    37.79910301672214
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40633130073547,
+                    37.7977805076241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "categories": [
+                    "italian"
+                ],
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "E Tutto Qua",
+                "rating": 5,
+                "url": "https://www.yelp.com/biz/e-tutto-qua-san-francisco"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40568220615386,
+                    37.7980984206267
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Name": "Naked Lunch",
+                "categories": "[\"sandwich\"]",
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "rating": 5,
+                "url": "https://www.yelp.com/biz/naked-lunch-san-francisco"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40593433380127,
+                    37.797488026453344
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40599334239958,
+                    37.79754737055262
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40516722202301,
+                    37.797187066358596
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40686774253845,
+                    37.798145047752044
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40680336952208,
+                    37.79810689828806
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40721106529234,
+                    37.79808570413287
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40732371807097,
+                    37.79789919530514
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40766704082489,
+                    37.797865284558576
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4073773622513,
+                    37.79848839204139
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40841269493102,
+                    37.798912271678844
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Caffee Greco",
+                "rating": 0
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40850925445557,
+                    37.798963137071866
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40711987018584,
+                    37.79868761577395
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40721106529234,
+                    37.79904367387257
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40722179412842,
+                    37.79916659829379
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40904033184052,
+                    37.800234760514435
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40812301635742,
+                    37.79972187502673
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Golden Boy Pizza"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40550518035889,
+                    37.7971701108238
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40947484970093,
+                    37.79995076651085
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4078869819641,
+                    37.79854349653181
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40951776504517,
+                    37.799654055191525
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40908861160278,
+                    37.79926408993067
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40472197532654,
+                    37.79821498838485
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40638494491577,
+                    37.797500743050044
+                ],
+                "type": "Point"
+            },
+            "properties": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4109125137329,
+                    37.800060973268764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "North Beach Gyros",
+                "rating": 0
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40608453750609,
+                    37.797314232745386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Kan ramen",
+                "rating": 0,
+                "url": "https://www.yelp.com/biz/kan-ramen-san-francisco"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41201221942902,
+                    37.80168014591058
+                ],
+                "type": "Point"
+            },
             "properties": {
                 "marker-color": "#7e7e7e",
                 "marker-size": "medium",
@@ -276,7 +659,8 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "name": "Caffee Greco",
-                "rating": 0
+                "rating": 0,
+                "url": "https://www.yelp.com/biz/caffe-greco-san-francisco"
             },
             "type": "Feature"
         },
@@ -292,8 +676,9 @@
                 "marker-color": "#7e7e7e",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "name": "",
-                "rating": 0
+                "name": "Caffe puccini",
+                "rating": 0,
+                "url": "https://www.yelp.com/biz/caffe-puccini-san-francisco"
             },
             "type": "Feature"
         },
@@ -326,7 +711,7 @@
                 "marker-color": "#7e7e7e",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "name": "Chubby Noddles",
+                "name": "Chubby Noodle",
                 "rating": 5
             },
             "type": "Feature"
@@ -501,6 +886,236 @@
                 "marker-symbol": "",
                 "name": "Vesuvio Cafe",
                 "rating": 3
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40599066019057,
+                    37.79764062546951
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Spec's",
+                "rating": 4,
+                "url": "https://www.yelp.com/biz/specs-twelve-adler-museum-cafe-san-francisco-2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40615695714949,
+                    37.79764910318341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Devil's Acre",
+                "rating": 5
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40590214729309,
+                    37.79784620975681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Noc Noc On Broadway",
+                "rating": 4,
+                "url": "https://www.yelp.com/biz/noc-noc-on-broadway-san-francisco-3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40603893995284,
+                    37.797831373796456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Urban Curry",
+                "rating": 4
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40635275840759,
+                    37.798170480717104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "15 Romolo",
+                "rating": 5
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4056527018547,
+                    37.797882239933806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Little Szechuan",
+                "rating": 4,
+                "url": "https://www.yelp.com/biz/little-szechuan-san-francisco"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40664243698119,
+                    37.797986091522105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "The Condor Club",
+                "rating": 4,
+                "url": "https://www.yelp.com/biz/the-condor-club-san-francisco"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40786284208298,
+                    37.79975790428887
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Massawa Restaurant",
+                "rating": 4,
+                "url": "https://www.yelp.com/biz/massawa-restaurant-san-francisco-2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40731835365295,
+                    37.79961802587873
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Henry\u2019s Hunan Restaurant",
+                "rating": 5,
+                "url": "https://www.yelp.com/biz/henrys-hunan-restaurant-san-francisco-7"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40869164466856,
+                    37.79943364029707
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Buster's Cheesesteak",
+                "rating": 4,
+                "url": "https://www.yelp.com/biz/busters-cheesesteak-san-francisco"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40724593400954,
+                    37.799236537959395
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Mo's Grill",
+                "rating": 5,
+                "url": "https://www.yelp.com/biz/mos-grill-san-francisco"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.40355253219604,
+                    37.79740112965047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Cotogna",
+                "rating": 5
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4045717716217,
+                    37.79825313779303
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Elaine's Kitchen",
+                "rating": 4,
+                "url": "https://www.yelp.com/biz/elaines-kitchen-san-francisco-3"
             },
             "type": "Feature"
         }
