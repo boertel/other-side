@@ -7,14 +7,53 @@ var map = new mapboxgl.Map({
     zoom: 15,
 });
 
-function projectPoint(lon, lat) {
-    var point = map.project(new mapboxgl.LngLat(lon, lat));
-    this.stream.point(point.x, point.y);
+var office = [-122.40603893995284, 37.797831373796456];
+
+
+function metersToPixelsAtMaxZoom(meters, latitude) {
+    return meters / 0.075 / Math.cos(latitude * Math.PI / 180)
 }
+
 map.on('load', function() {
     map.addSource('data', {
         type: 'geojson',
         data: './map.geojson'
+    });
+
+
+    map.addSource('radius', {
+        type: 'geojson',
+        data: {
+            type: 'FeatureCollection',
+            features: [
+                {
+                    type: 'Feature',
+                    geometry: {
+                        type: 'Point',
+                        coordinates: office,
+                    }
+                }
+            ]
+        }
+    });
+
+    var RADIUS = 700;
+
+    map.addLayer({
+        id: 'radius',
+        type: 'circle',
+        source: 'radius',
+        paint: {
+            'circle-color': 'rgba(0, 0, 0, 0.1)',
+            'circle-radius': {
+                stops: [
+                    [0, 0],
+                    [20, metersToPixelsAtMaxZoom(700, office[1])]
+                ],
+                base: 2
+            }
+
+        }
     });
 
     map.addLayer({
@@ -38,46 +77,6 @@ map.on('load', function() {
         }
     });
 
-    var office = [-122.40603893995284, 37.797831373796456];
-
-    map.addSource('radius', {
-        type: 'geojson',
-        data: {
-            type: 'FeatureCollection',
-            features: [
-                {
-                    type: 'Feature',
-                    geometry: {
-                        type: 'Point',
-                        coordinates: office,
-                    }
-                }
-            ]
-        }
-    });
-
-    var RADIUS = 700;
-
-    function metersToPixelsAtMaxZoom(meters, latitude) {
-        return meters / 0.075 / Math.cos(latitude * Math.PI / 180)
-    }
-
-    map.addLayer({
-        id: 'radius',
-        type: 'circle',
-        source: 'radius',
-        paint: {
-            'circle-color': 'rgba(0, 0, 0, 0.1)',
-            'circle-radius': {
-                stops: [
-                    [0, 0],
-                    [20, metersToPixelsAtMaxZoom(700, office[1])]
-                ],
-                base: 2
-            }
-
-        }
-    });
 
 });
 
